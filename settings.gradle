@@ -1,0 +1,2 @@
+rootProject.name='Youtube Test Player'
+include ':app'
